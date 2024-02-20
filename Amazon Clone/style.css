@@ -180,6 +180,132 @@ span
 
 
 
+/**          -------------           SECOND     --------------                 **/
+
+
+.panel
+{
+    display:flex;
+    height: 39px;
+    background-color: #232F3E;
+    color: #FFFFFF;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+.panel-ops p
+{
+     display:inline
+}
+
+.panel-all
+{
+    width: 60px;
+    padding: 8px 9px;
+}
+
+.panel-ops
+{
+    width: 1000px;
+}
+
+.lol1
+{
+    width: 103px;
+    height: 28px;
+    font-size: 14px;
+    padding: 8px 9px;
+    margin: 5px 0px 6px;   
+}
+
+.lol2
+{
+    width: 128px;
+    height: 28px;
+    font-size: 14px;
+    padding: 8px 9px;
+    margin: 5px 0px 6px; 
+}
+
+.lol3
+{
+    width: 70px;
+    height: 28px;
+    font-size: 14px;
+    padding: 8px 9px;
+    margin: 5px 0px 6px; 
+}
+
+.lol4
+{
+    width: 80px;
+    height: 28px;
+    font-size: 14px;
+    padding: 8px 9px;
+    margin: 5px 0px 6px; 
+}
+
+.lol5
+{
+    width: 42px;
+    height: 28px;
+    font-size: 14px;
+    padding: 8px 9px;
+    margin: 5px 0px 6px; 
+}
+
+
+.panel-deals
+{
+    padding-top: 5px;
+    width: 200px;
+    height: 32px;
+    font-size: 16px;
+    font-weight: 700;
+    
+}
+
+
+
+
+/**          -------------          THIRD     --------------                 **/
+
+.hero-section
+{
+    background-size: cover;
+    height: 600px;
+    display:flex;
+    position: relative;
+   justify-content: center;
+    color: white;
+}
+
+.hero-message
+{
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 7px;
+    background-color: white;
+    font-size: 14px;
+    color: black;
+    height: 40px;
+    position: absolute;
+    top: 90%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.hero-section a
+{
+    color: #007185;
+}
+
+
+
+
+
+
 
 
 
